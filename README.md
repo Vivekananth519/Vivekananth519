@@ -12,6 +12,60 @@ Currently, I'm particularly focused on building solutions using **Generative AI,
 
 ---
 
+## 🌟 Featured Projects
+
+These repositories best represent my progression from core Data Science to Production ML and Generative AI applications:
+
+### 1) [Text2SQL-Chinook](https://github.com/Vivekananth519/Text2SQL-Chinook)
+**Natural language to SQL using supervised learning concepts and structured data reasoning.**  
+Why it matters:
+- Bridges business questions and data access
+- Demonstrates applied NLP/ML for analytics productivity
+- Relevant to enterprise BI and decision-support workflows
+
+### 2) [llms_ocr](https://github.com/Vivekananth519/llms_ocr)
+**Experimentation with open-source LLMs for OCR-related tasks.**  
+Why it matters:
+- Shows practical LLM application beyond chat
+- Connects unstructured document data to AI workflows
+- Strong GenAI relevance for real-world automation
+
+### 3) [ocr](https://github.com/Vivekananth519/ocr)
+**OCR workflows for IDs/documents (Aadhar, PAN masking, Voter ID, Driving License).**  
+Why it matters:
+- Solves compliance and data-extraction use cases
+- Demonstrates business-facing problem solving
+- Highlights applied AI in sensitive-document processing
+
+### 4) [deploying-machine-learning-models](https://github.com/Vivekananth519/deploying-machine-learning-models)
+**Hands-on work aligned with ML model deployment practices.**  
+Why it matters:
+- Shows production-oriented ML mindset
+- Connects model building with real deployment concerns
+- Valuable for ML Engineer / Senior DS hiring signals
+
+### 5) [SAS_Data_model-Sample](https://github.com/Vivekananth519/SAS_Data_model-Sample)
+**Logistic modeling with SAS on synthetic data.**  
+Why it matters:
+- Demonstrates statistical modeling foundation
+- Relevant to financial/insurance analytics contexts
+- Reinforces classical DS rigor behind modern AI work
+
+### 6) [OpenCV](https://github.com/Vivekananth519/OpenCV)
+**Computer vision learning projects and experimentation.**  
+Why it matters:
+- Broadens AI capability beyond tabular/text use cases
+- Supports end-to-end AI problem solving across modalities
+- Useful foundation for intelligent automation pipelines
+
+### 🧭 Career Narrative Through Projects
+
+**Data Science → Machine Learning → Production ML → Generative AI → (next: RAG / Agentic AI / MCP)**
+
+My current focus is actively expanding into **RAG, Agentic AI, and MCP-based tool-connected systems**, building on the foundations demonstrated in the projects above.
+
+---
+
 ## 🚀 What I Work On
 
 * 🤖 **Machine Learning & Predictive Analytics**
