@@ -1,6 +1,40 @@
-# 👋 Hi, I'm Vivekananth Rajaganesan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vivekananth%20Rajaganesan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Senior%20AI%20Engineer%20%7C%20GenAI%20%7C%20Agentic%20AI%20%7C%20MLOps&descAlignY=58&descSize=17" width="100%"/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=640&lines=Building+Agentic+AI+Systems+at+Scale;LangGraph+%7C+LangChain+%7C+CrewAI+%7C+AutoGen;Multi-Agent+Orchestration+%26+RAG+Pipelines;AI+Platform+Architect+%7C+MLOps+Engineer;Enterprise+GenAI+%7C+LLM+Applications)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vivekananth519&label=Profile+Views&color=0e75b6&style=flat)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekananth-rajaganesan-89477a70)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ananthnadar1993@gmail.com)
+&nbsp;
+![Company](https://img.shields.io/badge/Quantiphi-Technical%20Architect%20AI%20Engineer-FF6B35?style=flat&logoColor=white)
+
+</div>
 
 ### Senior Data Scientist | Machine Learning | Generative AI | Agentic AI
+
+```python
+class VivekananthRajaganesan:
+
+    role        = "Senior AI Engineer | GenAI Engineer | Tech Architect MLE"
+    company     = "Quantiphi Analytics Solutions"
+    location    = "Bangalore, India"
+
+    focus       = [
+        "Agentic AI Platforms & Multi-Agent Systems",
+        "LangGraph · LangChain · CrewAI · AutoGen",
+        "RAG Pipelines & Knowledge Management Systems",
+        "LLM Applications & Enterprise GenAI",
+        "MLOps · AI Automation · Cloud Deployments",
+    ]
+
+    contact     = "ananthnadar1993@gmail.com"
+```
 
 > Building intelligent, scalable and business-focused AI solutions that turn data into measurable impact.
 
