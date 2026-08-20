@@ -12,7 +12,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ananthnadar1993@gmail.com)
 &nbsp;
-![Company](https://img.shields.io/badge/Quantiphi-Technical%20Architect%20AI%20Engineer-FF6B35?style=flat&logoColor=white)
+![Company](https://img.shields.io/badge/Technical%20Architect%20AI%20Engineer-FF6B35?style=flat&logoColor=white)
 
 </div>
 
