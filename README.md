@@ -22,7 +22,6 @@
 class VivekananthRajaganesan:
 
     role        = "Senior AI Engineer | GenAI Engineer | Tech Architect MLE"
-    company     = "Quantiphi Analytics Solutions"
     location    = "Bangalore, India"
 
     focus       = [
